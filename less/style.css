@@ -1,0 +1,121 @@
+.search {
+  background-color: #F0F0F0;
+  height: 12vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.search input {
+  border-width: 0px;
+  height: 8.53333333vw;
+  font-size: 3.73333333vw;
+  flex: 0.96;
+}
+.hot-search ul {
+  display: flex;
+  align-items: center;
+  padding: 0.53333333vw 0.53333333vw;
+}
+.hot-search ul li {
+  font-size: 3.73333333vw;
+  margin: 0 1.6vw;
+}
+.slide {
+  display: flex;
+}
+.slide img {
+  width: 100%;
+  flex: 1;
+}
+.pxui-xcx-g {
+  display: flex;
+  justify-content: center;
+}
+.pxui-xcx-g .pxui-xcx-span {
+  margin: 1.6vw;
+  font-size: 3.73333333vw;
+}
+.tab {
+  display: flex;
+  justify-content: space-around;
+}
+.tab a {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-size: 3.73333333vw;
+  padding: 1.6vw;
+}
+.tab img {
+  width: 6.93333333vw;
+  height: 6.93333333vw;
+}
+.book-items .item {
+  font-size: 3.2vw;
+}
+.book-items .item a {
+  font-size: 3.2vw;
+}
+.pxui-batch-refresh a {
+  font-size: 3.2vw;
+}
+.list-recommend ul {
+  display: flex;
+}
+.list-recommend ul li {
+  display: flex;
+  justify-content: center;
+  flex: 1;
+}
+.list-recommend ul li a {
+  font-size: 3.73333333vw;
+}
+.list-recommend ul li img {
+  max-width: 21.33333333vw;
+}
+.list-literature ul {
+  display: flex;
+}
+.list-literature ul li {
+  display: flex;
+  justify-content: center;
+  flex: 1;
+}
+.list-literature ul li a {
+  font-size: 3.73333333vw;
+}
+.list-literature ul li img {
+  max-width: 21.33333333vw;
+}
+.bi_li {
+  border: 1px solid red;
+  display: flex;
+}
+.bi_li .bi-l img {
+  width: 21.33333333vw;
+}
+.bi_li .bi-r {
+  margin-left: 3.2vw;
+  padding-top: 3.2vw;
+  font-size: 3.73333333vw;
+  flex: 1 1 auto;
+}
+.footer_nav {
+  width: 100%;
+  position: fixed;
+  bottom: 0;
+}
+.footer_nav .footer-tab {
+  display: flex;
+  justify-content: space-between;
+}
+.footer_nav a {
+  font-size: 3.73333333vw;
+  height: 18.66666667vw;
+  border: 0.26666667vw solid red;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex: 1;
+}
+/*# sourceMappingURL=style.css.map */
